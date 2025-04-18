@@ -11,15 +11,6 @@ An interactive and modern web application for real-time and image-based object d
 
 ---
 
-## 🖼️ Preview
-
-| Image Mode | Real-Time Mode |
-|------------|----------------|
-| ![image_preview](https://via.placeholder.com/350x220.png?text=Image+Detection+Preview) | ![video_preview](https://via.placeholder.com/350x220.png?text=Webcam+Detection+Preview) |
-
-> _Replace the preview images above with actual screenshots or demo GIFs._
-
----
 
 ## 🚀 Features
 
@@ -115,7 +106,7 @@ Choose from various YOLOv8 model sizes based on speed vs accuracy tradeoffs:
 
 > Deploy this app using [Streamlit Community Cloud](https://streamlit.io/cloud) or [Hugging Face Spaces](https://huggingface.co/spaces/). Add the link below:
 
-**[🧪 Try the Live App Here](https://your-app-link.streamlit.app)**
+**[🧪 Try the Live App Here](https://huggingface.co/spaces/rohitanand27/project1)**
 
 ---
 
@@ -130,7 +121,6 @@ See the [LICENSE](LICENSE) file for full details.
 
 **Rohit Anand**  
 MCA Student | AI & Software Development Enthusiast  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 🌐 [Portfolio](https://yourportfolio.com)
 
 ---
 
