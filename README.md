@@ -55,7 +55,6 @@ Choose from various YOLOv8 model sizes based on speed vs accuracy tradeoffs:
 ```
 📂 yolov8-streamlit-app
 ├── app.py                # Main Streamlit app
-├── yolov8n.pt            # Example model weight (place other variants as needed)
 ├── requirements.txt      # All Python dependencies
 └── README.md             # Project documentation
 ```
